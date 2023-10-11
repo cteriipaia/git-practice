@@ -2,7 +2,7 @@
 *.iml
 ### Mac OS ###
 .DS_Store
-
+confessions.txt
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
